@@ -1,2 +1,1 @@
-# dotted
-git problems
+This repo contains my old dotfiles
